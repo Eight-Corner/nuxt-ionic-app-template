@@ -3,6 +3,7 @@ Ionic + Nuxt.js setup
 
 ## setup
 
+node --version : v14.20.0
 create regular nuxt app:
 
 ```bash
